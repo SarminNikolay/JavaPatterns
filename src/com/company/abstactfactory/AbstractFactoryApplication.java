@@ -12,9 +12,11 @@ public class AbstractFactoryApplication {
         button = factory.createButton();
         checkbox = factory.createCheckbox();
     }
+
     public void onCheckBoxChecked() {
         checkbox.onCheckBoxChecked();
     }
+
     public void onButtonClick() {
         button.onButtonClick();
     }

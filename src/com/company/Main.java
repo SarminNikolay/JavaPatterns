@@ -1,4 +1,5 @@
 package com.company;
+
 import com.company.abstactfactory.AbstractFactoryApplication;
 import com.company.abstactfactory.factory.MacFactory;
 import com.company.abstactfactory.factory.WinFactory;
